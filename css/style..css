@@ -140,13 +140,13 @@ border: none;position: relative;margin-top: 20px;}
 .title_offer{font-size: 45px;text-align: center;margin-top: 70px;}
 .line_offer{height: 3px;width: 100px;margin: auto;background-color: rgba(0, 0, 255, 0.623);margin-top: 15px;}
 /*                  session_featured ////////////////////                        ////////////////////// */
-.parent_offer1{position: relative;overflow: hidden;margin-top: 40px;}
+.parent_offer1{position: relative;overflow: hidden;margin-top: 40px;left: 100px;}
 .info_offer{width: 300px;height: 200px;border: 1px solid rgb(130, 153, 238);float: left;
 border-radius: 15px;margin-left: 100px;padding-left: 60px;position: relative;overflow: hidden;}
 .title1_info{margin-top: 20px;margin-left: -10px;z-index: 5;position: relative;}
 .info_offer  p{color:rgba(0,  0,  0, .6);padding-top: 10px;position:relative ;z-index: 3;}
 .info_offer i {margin-left: -50px;font-size: 30px;color: rgba(0, 4, 255, 0.537);z-index: 5;}
-.parent_offer2{position: relative;top: 50px;}
+.parent_offer2{position: relative;top: 50px;left: 100px;}
 .info_offer::after{position: absolute;
   content:"" ;
   top: 0;
